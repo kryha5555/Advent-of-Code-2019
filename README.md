@@ -10,4 +10,26 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |---|:---:|:---:|
 |✔️ [Day 1: The Tyranny of the Rocket Equation](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%201 "Day 1: The Tyranny of the Rocket Equation") | ⭐️ | ⭐️ |
 |✔️ [Day 2: 1202 Program Alarm](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%202 "Day 2: 1202 Program Alarm") | ⭐️ | ⭐️ |
-| Day 3: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 3: Crossed Wires](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%203 "Day 3: Crossed Wires") | ⭐️ | ⭐️ |
+| Day 4: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 5: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 6: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 7: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 8: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 9: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 10: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 11: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 12: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 13: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 14: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 15: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 16: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 17: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 18: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 19: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 20: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 21: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 22: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 23: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 24: ...| 🕕 Waiting | 🕕 Waiting  |
+| Day 25: ...| 🕕 Waiting | 🕕 Waiting  |
