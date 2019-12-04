@@ -11,7 +11,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 1: The Tyranny of the Rocket Equation](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%201 "Day 1: The Tyranny of the Rocket Equation") | ⭐️ | ⭐️ |
 |✔️ [Day 2: 1202 Program Alarm](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%202 "Day 2: 1202 Program Alarm") | ⭐️ | ⭐️ |
 |✔️ [Day 3: Crossed Wires](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%203 "Day 3: Crossed Wires") | ⭐️ | ⭐️ |
-| Day 4: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 4: Secure Container](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%204 "Day 4: Secure Container") | ⭐️ | ⭐️ |
 | Day 5: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 6: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 7: ...| 🕕 Waiting | 🕕 Waiting  |
