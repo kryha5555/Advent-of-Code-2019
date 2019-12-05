@@ -1,1 +1,8 @@
 *.asv
+**/.vs 
+**/Debug
+*.sln
+*.vcxproj
+*.filters
+*.user
+Day 5/wip
