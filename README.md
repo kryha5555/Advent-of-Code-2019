@@ -14,7 +14,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 4: Secure Container](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%204 "Day 4: Secure Container") | ⭐️ | ⭐️ |
 |✔️ [Day 5: Sunny with a Chance of Asteroids](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%205 "Day 5: Sunny with a Chance of Asteroids") | ⭐️ | ⭐️ |
 |✔️ [Day 6: Universal Orbit Map](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%206 "Day 6: Universal Orbit Map") | ⭐️ | ⭐️ |
-| Day 7: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 7: Amplification Circuit](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%207 "Day 7: Amplification Circuit") | ⭐️ | ⭐️ |
 | Day 8: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 9: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 10: ...| 🕕 Waiting | 🕕 Waiting  |
