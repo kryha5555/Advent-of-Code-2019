@@ -16,7 +16,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 6: Universal Orbit Map](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%206 "Day 6: Universal Orbit Map") | ⭐️ | ⭐️ |
 |✔️ [Day 7: Amplification Circuit](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%207 "Day 7: Amplification Circuit") | ⭐️ | ⭐️ |
 |✔️ [Day 8: Space Image Format](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%208 "Day 8: Space Image Format") | ⭐️ | ⭐️ |
-| Day 9: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 9: Sensor Boost](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%209 "Day 9: Sensor Boost") | ⭐️ | ⭐️ |
 | Day 10: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 11: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 12: ...| 🕕 Waiting | 🕕 Waiting  |
