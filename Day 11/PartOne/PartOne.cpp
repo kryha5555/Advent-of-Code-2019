@@ -12,7 +12,7 @@ int main()
 	std::vector<double> output = {};
 	int panelsPainted = 0;
 
-	int grid[GRIDX][GRIDY] = {};
+	bool grid[GRIDX][GRIDY] = {};
 	bool mask[GRIDX][GRIDY] = {};
 	int posX = POSX;
 	int posY = POSY;
