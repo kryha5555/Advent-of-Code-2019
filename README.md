@@ -19,7 +19,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 9: Sensor Boost](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2009 "Day 9: Sensor Boost") | ⭐️ | ⭐️ |
 |✔️ [Day 10: Monitoring Station](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2010 "Day 10: Monitoring Station") | ⭐️ | ⭐️ |
 |✔️ [Day 11: Space Police](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2011 "Day 11: Space Police") | ⭐️ | ⭐️ |
-| Day 12: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 12: The N-Body Problem](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2012 "Day 12: The N-Body Problem") | ⭐️ | ⭐️ |
 | Day 13: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 14: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 15: ...| 🕕 Waiting | 🕕 Waiting  |
