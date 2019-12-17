@@ -24,7 +24,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 14: Space Stoichiometry](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2014 "Day 14: Space Stoichiometry") | ⭐️ | ⭐️ |
 |✔️ [Day 15: Oxygen System](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2015 "Day 15: Oxygen System") | ⭐️ | ⭐️ |
 |✔️ [Day 16: Flawed Frequency Transmission](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2016 "Day 16: Flawed Frequency Transmission") | ⭐️ | ⭐️ |
-| Day 17: ...| 🕕 Waiting | 🕕 Waiting  |
+|✔️ [Day 17: Set and Forget](https://github.com/kryha5555/Advent-of-Code-2019/tree/master/Day%2017 "Day 17: Set and Forget") | ⭐️ | ⭐️ |
 | Day 18: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 19: ...| 🕕 Waiting | 🕕 Waiting  |
 | Day 20: ...| 🕕 Waiting | 🕕 Waiting  |
